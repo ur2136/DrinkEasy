@@ -1,0 +1,12 @@
+version : 0.1
+phases :
+  pre_build :
+    commands :
+      - echo npm install
+  build :
+    commands :
+      - npm start
+      - echo Build started......
+artifacts :
+  files :
+    - '**/*'

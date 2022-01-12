@@ -1,0 +1,13 @@
+#search-btn {
+    padding: 8px;
+    display: table;
+    background-color: var(--border-white);
+    color: var(--drinkeasy-red);
+    border: 1px solid var(--drinkeasy-red);
+    border-radius: 8px;
+    margin: 0 auto;
+    font-size: 14px;
+    margin-bottom: 8px;
+    width: 10%;
+}
+  

@@ -1,0 +1,19 @@
+.dropdown-item {
+    padding: 8px;
+    display: flex;
+    background-color: var(--border-white);
+    color: var(--drinkeasy-red);
+    border: 1px solid var(--drinkeasy-red);
+    border-radius: 8px;
+    margin: 10px 10px 10px 0px;
+    font-size: 14px;
+}
+  
+.dropdown-name {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.dropdown-item>input {
+    height: 15px;
+}
